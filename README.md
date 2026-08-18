@@ -75,7 +75,7 @@ Se algum pacote não estiver disponível para sua distribuição, você pode ign
 Execute o script com Python:
 
 ```bash
-python cryptopyfox.py
+python app.py
 ```
 
 Ao iniciar, você verá uma tela de boas‑vindas e deverá escolher uma das três opções para definir a **chave de criptografia**:
