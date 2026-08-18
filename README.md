@@ -188,7 +188,7 @@ Este projeto é distribuído sob a licença **MIT**. Sinta‑se à vontade para 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Otavio OMG Dev**  
-[GitHub](https://github.com/seu-usuario) • [LinkedIn](https://linkedin.com/in/seu-perfil)
+[GitHub](https://github.com/otavioomg) • [LinkedIn](https://linkedin.com/in/otavioomgdev)
 
 ---
 
