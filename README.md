@@ -113,7 +113,7 @@ Após definir a chave, o programa entra em um loop principal com as opções des
 
 ## 🔐 Sobre o Fernet
 
-O **Fernet** é um esquema de criptografia simétrica fornecido pela biblioteca `cryptography` em Python. Ele garante:
+O **Fernet** é um esquema de criptografia simétrica fornecido pela biblioteca `Fernet` em Python. Ele garante:
 
 - **Confidencialidade** – os dados são criptografados com AES-128 em modo CBC.
 - **Integridade** – um HMAC com SHA-256 é usado para verificar se os dados não foram alterados.
